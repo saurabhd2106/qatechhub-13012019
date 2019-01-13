@@ -1,0 +1,12 @@
+
+	
+	Type syso + ctrl + spacebar + enter --> Prints the System.out.println();
+	Type main + ctrl + spacebar + enter --> Prints the main method
+	To format the code --> shift + ctrl + f
+	
+	shift + alt + x, j --> Run as Java application
+	
+	ctrl + s --> Save a file
+	ctrl + shit + s --> Save all files
+	
+	
