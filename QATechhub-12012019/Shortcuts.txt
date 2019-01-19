@@ -4,6 +4,8 @@
 	Type main + ctrl + spacebar + enter --> Prints the main method
 	To format the code --> shift + ctrl + f
 	
+	To comment multiple line --> shift + ctrl + /
+	
 	shift + alt + x, j --> Run as Java application
 	
 	ctrl + s --> Save a file
