@@ -4,8 +4,13 @@ public class DemoMultipleBrowserTesting {
 
 	public static void main(String[] args) {
 		MultipleBrowserTesting mb = new MultipleBrowserTesting();
-		
-		mb.invokeBrowser("firefox");
+
+		try {
+			mb.invokeBrowser("firefox");
+		} catch (Exception e) {
+
+			e.printStackTrace();
+		}
 
 	}
 
